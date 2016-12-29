@@ -8,7 +8,6 @@ const int L298N_IN4 = 8;
 Servo sr04_servo;
 const int SERVO_PIN = 6;
 
-
 const int TRIG_PIN = 13;
 const int ECHO_PIN = 12;
 float travelTime = 0;
@@ -19,7 +18,6 @@ const int DEGREE_LEFT = 120;
 const int DEGREE_RIGHT = 50;
   
 void setup() {
-  // put your setup code here, to run once:
     Serial.begin(9600); 
     pinMode(TRIG_PIN, OUTPUT);
     pinMode(ECHO_PIN, INPUT);
