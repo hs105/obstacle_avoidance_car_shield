@@ -5,8 +5,12 @@ const int L298N_IN2 = 10;
 const int L298N_IN3 = 9;
 const int L298N_IN4 = 8;
 
+//const int L298N_ENA = 5;
+//const int L298N_ENB = 3;
+
 Servo sr04_servo;
 const int SERVO_PIN = 6;
+
 
 const int TRIG_PIN = 13;
 const int ECHO_PIN = 12;
@@ -16,7 +20,8 @@ const float SPEED_OF_SOUND = 776.5;//miles per hour
 const int DEGREE_AHEAD = 85;
 const int DEGREE_LEFT = 120;
 const int DEGREE_RIGHT = 50;
-  
+//const int WHEEL_SPEED = 1023;  
+
 void setup() {
     Serial.begin(9600); 
     pinMode(TRIG_PIN, OUTPUT);
@@ -26,6 +31,8 @@ void setup() {
     pinMode(L298N_IN2, OUTPUT);
     pinMode(L298N_IN3, OUTPUT);
     pinMode(L298N_IN4, OUTPUT);
+//    pinMode(L298N_ENA, OUTPUT);
+//    pinMode(L298N_ENB, OUTPUT);
   
     sr04_servo.attach(SERVO_PIN);
     sr04_servo.write(DEGREE_AHEAD);
@@ -53,6 +60,8 @@ void forward(){
     digitalWrite(L298N_IN2, LOW);
     digitalWrite(L298N_IN3, LOW);
     digitalWrite(L298N_IN4, HIGH);
+//    analogWrite(L298N_ENA, WHEEL_SPEED);
+//    analogWrite(L298N_ENB, WHEEL_SPEED);
 }
 
 void backward(){
@@ -60,6 +69,8 @@ void backward(){
     digitalWrite(L298N_IN2, HIGH);
     digitalWrite(L298N_IN3, HIGH);
     digitalWrite(L298N_IN4, LOW);
+//    analogWrite(L298N_ENA, WHEEL_SPEED);
+//    analogWrite(L298N_ENB, WHEEL_SPEED);
 }
 
 void turn_right(){
