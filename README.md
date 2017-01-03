@@ -1,20 +1,22 @@
-An Arduino controlled RC car with L298N.
+An Arduino controlled RC car with L298N. [Youtube video](https://www.youtube.com/watch?v=ySksmX-fhQY)
 
 ## Parts
-[L298N] (http://www.ebay.com/itm/332037149584?_trksid=p2057872.m2749.l2649&ssPageName=STRK%3AMEBIDX%3AIT)
+Arduino I bought from Amazon. All the other parts were from Ebay.  
+* Chasis
+* [L298N]
+* [Arduino]
+* [two 18650 batteries], 18650 battery box
+* SR04 with holder
+* 10cm female to male wires. Also used a few wires from Arduino starter package. 
+* Servo SG90
+* An on/off switch 
 
-##SR04 distance
-Use blue tooth chip to send data to computer python to matplot. this is easy for debugging. 
 
-## Youtube
-need a iphone/ipad stand to shoot a good video. 
+## Todo 
+SR04 distance. Use blue tooth chip to send data to computer python to matplot. this is easy for debugging. 
 
-## Pictures
 
-## Instructable
 
-servo:
-https://www.youtube.com/watch?v=jQwYBc7YBXs
 
 
 
