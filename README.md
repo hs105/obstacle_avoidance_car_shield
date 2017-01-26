@@ -13,7 +13,13 @@ Arduino I bought from Amazon. All the other parts were from Ebay.
 
 
 ## Todo 
-SR04 distance. Use blue tooth chip to send data to computer python to matplot. this is easy for debugging. 
+Hardware (add step by step)
+* Use blue tooth chip to send data to computer python to matplot. this is easy for debugging. 
+* A camera module to detect curve on the ground.
+* A lidar sensor 
+
+* Let the car follow lane
+* Let the car can bypass another car, avoid collison, route plannnig. 
 
 
 
