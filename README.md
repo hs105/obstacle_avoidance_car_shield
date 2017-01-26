@@ -22,7 +22,7 @@ Hardware (add step by step)
 * Let the car can bypass another car, avoid collison, route plannnig. 
 
 
-
-
+Lane detection including center
+[youtube some student](https://www.youtube.com/watch?v=VlH3OEhZnow)
 
 
