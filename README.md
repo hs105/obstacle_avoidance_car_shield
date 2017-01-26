@@ -33,5 +33,5 @@ https://www.youtube.com/watch?v=SFqAAseL_1g
 
 
 
-
+[laser and camera fusion](https://www.youtube.com/watch?v=g2mLq4yrySM)
 
