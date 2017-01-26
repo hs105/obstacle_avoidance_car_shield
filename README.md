@@ -35,3 +35,12 @@ https://www.youtube.com/watch?v=SFqAAseL_1g
 
 [laser and camera fusion](https://www.youtube.com/watch?v=g2mLq4yrySM)
 
+##code
+
+http://www.transistor.io/revisiting-lane-detection-using-opencv.html
+
+##Paper
+
+https://arxiv.org/pdf/1501.03124.pdf
+
+
