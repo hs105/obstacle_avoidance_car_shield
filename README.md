@@ -25,4 +25,8 @@ Hardware (add step by step)
 Lane detection including center
 [youtube some student](https://www.youtube.com/watch?v=VlH3OEhZnow)
 
+https://www.youtube.com/watch?v=8h9vU1pnNZA
+
+
+
 
