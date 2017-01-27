@@ -69,4 +69,6 @@ detecting lanes seems a good problem. Can you do that using deep learning or dee
 
 [empirical comparisons](https://pdfs.semanticscholar.org/93fb/528c7f6db623322a8c03a0f639329549b6ea.pdf)
 
+[markings](http://web2-clone.research.att.com/export/sites/att_labs/techdocs/TD_100768.pdf)
+
 [some's blog taking Udacity course](http://deborah-digges.github.io/)
