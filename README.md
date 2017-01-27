@@ -47,3 +47,5 @@ https://arxiv.org/pdf/1501.03124.pdf
 
 https://nakkaya.com/2011/01/24/lane-detection-using-clojure-and-opencv/
 
+https://github.com/Eric-Gonzalez/lane-detection
+
