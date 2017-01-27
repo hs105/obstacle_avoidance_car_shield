@@ -49,7 +49,7 @@ https://github.com/kylesf/Advanced-Lane-Detection
 
 https://nakkaya.com/2011/01/24/lane-detection-using-clojure-and-opencv/
 
-https://github.com/Eric-Gonzalez/lane-detection
+[uisng a single HoughLines function from Opencv](https://github.com/Eric-Gonzalez/lane-detection)
 
 https://github.com/georgesung/road_lane_line_detection
 
