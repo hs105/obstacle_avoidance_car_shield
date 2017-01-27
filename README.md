@@ -35,15 +35,16 @@ https://www.youtube.com/watch?v=SFqAAseL_1g
 
 [laser and camera fusion](https://www.youtube.com/watch?v=g2mLq4yrySM)
 
-##code
-
-http://www.transistor.io/revisiting-lane-detection-using-opencv.html
 
 ##Paper
 
 https://arxiv.org/pdf/1501.03124.pdf
 
 [talking about some error metric](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=0ahUKEwj77-WHguHRAhUiS2MKHYqgC8E4ChAWCCAwAQ&url=http%3A%2F%2Fwww.atlantis-press.com%2Fphp%2Fdownload_paper.php%3Fid%3D25837416&usg=AFQjCNGtBAdllIuPK8DR2b3Mz68_j8lKdg&bvm=bv.145063293,d.cGc)
+
+##code
+
+http://www.transistor.io/revisiting-lane-detection-using-opencv.html
 
 https://github.com/kylesf/Advanced-Lane-Detection
 
@@ -57,5 +58,6 @@ https://github.com/georgesung/road_lane_line_detection
 
 [collecting points on lane marks, and then perform regression for predictoin](https://github.com/DavidAwad/Lane-Detection)
 
-
 [Udacity self-driving car curriculum](https://medium.com/self-driving-cars/term-1-in-depth-on-udacitys-self-driving-car-curriculum-ffcf46af0c08#.82dgwyqrx)
+
+detecting lanes seems a good problem. Can you do that using deep learning or deep reinforcement learning?
