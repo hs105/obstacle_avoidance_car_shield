@@ -53,4 +53,4 @@ https://github.com/Eric-Gonzalez/lane-detection
 
 https://github.com/georgesung/road_lane_line_detection
 
-https://github.com/DavidAwad/Lane-Detection
+[collecting points on lane marks, and then perform regression for predictoin](https://github.com/DavidAwad/Lane-Detection)
