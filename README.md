@@ -65,4 +65,6 @@ detecting lanes seems a good problem. Can you do that using deep learning or dee
 
 [ford](http://www.cv-foundation.org/openaccess/content_cvpr_2016_workshops/w3/papers/Gurghian_DeepLanes_End-To-End_Lane_CVPR_2016_paper.pdf)
 
+[stanford](http://cs229.stanford.edu/proj2013/PazhayampallilKuan-DeepLearningLaneDetectionAutonomousVehicleLocalization.pdf)
+
 
