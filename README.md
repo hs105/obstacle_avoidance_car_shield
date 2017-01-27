@@ -53,4 +53,6 @@ https://nakkaya.com/2011/01/24/lane-detection-using-clojure-and-opencv/
 
 https://github.com/georgesung/road_lane_line_detection
 
+[seems from Udacity assignment](https://github.com/automet/self-driving-car-lane-detection). Maybe you should take this degree. 
+
 [collecting points on lane marks, and then perform regression for predictoin](https://github.com/DavidAwad/Lane-Detection)
