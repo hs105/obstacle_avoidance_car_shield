@@ -60,4 +60,9 @@ https://github.com/georgesung/road_lane_line_detection
 
 [Udacity self-driving car curriculum](https://medium.com/self-driving-cars/term-1-in-depth-on-udacitys-self-driving-car-curriculum-ffcf46af0c08#.82dgwyqrx)
 
+## Deep Learning for lane detection
 detecting lanes seems a good problem. Can you do that using deep learning or deep reinforcement learning?
+
+[ford](http://www.cv-foundation.org/openaccess/content_cvpr_2016_workshops/w3/papers/Gurghian_DeepLanes_End-To-End_Lane_CVPR_2016_paper.pdf)
+
+
