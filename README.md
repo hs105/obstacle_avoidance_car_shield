@@ -56,3 +56,6 @@ https://github.com/georgesung/road_lane_line_detection
 [seems from Udacity assignment](https://github.com/automet/self-driving-car-lane-detection). Maybe you should take this degree. 
 
 [collecting points on lane marks, and then perform regression for predictoin](https://github.com/DavidAwad/Lane-Detection)
+
+
+[Udacity self-driving car curriculum](https://medium.com/self-driving-cars/term-1-in-depth-on-udacitys-self-driving-car-curriculum-ffcf46af0c08#.82dgwyqrx)
