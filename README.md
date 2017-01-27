@@ -43,4 +43,7 @@ http://www.transistor.io/revisiting-lane-detection-using-opencv.html
 
 https://arxiv.org/pdf/1501.03124.pdf
 
+[talking about some error metric](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=0ahUKEwj77-WHguHRAhUiS2MKHYqgC8E4ChAWCCAwAQ&url=http%3A%2F%2Fwww.atlantis-press.com%2Fphp%2Fdownload_paper.php%3Fid%3D25837416&usg=AFQjCNGtBAdllIuPK8DR2b3Mz68_j8lKdg&bvm=bv.145063293,d.cGc)
+
+
 
