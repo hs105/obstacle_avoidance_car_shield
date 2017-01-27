@@ -67,7 +67,7 @@ detecting lanes seems a good problem. Can you do that using deep learning or dee
 
 [stanford](http://cs229.stanford.edu/proj2013/PazhayampallilKuan-DeepLearningLaneDetectionAutonomousVehicleLocalization.pdf)
 
-[empirical comparisons](https://pdfs.semanticscholar.org/93fb/528c7f6db623322a8c03a0f639329549b6ea.pdf)
+[empirical comparisons by Andrew Ng](https://pdfs.semanticscholar.org/93fb/528c7f6db623322a8c03a0f639329549b6ea.pdf)
 
 [markings](http://web2-clone.research.att.com/export/sites/att_labs/techdocs/TD_100768.pdf)
 
